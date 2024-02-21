@@ -19,8 +19,8 @@ Este é meu perfil de estudo!
 
 # Redes Sociais
 <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=black" />
-<img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=black" />
-<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black" />
-<img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=black" />
+<img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
