@@ -10,14 +10,9 @@ Este é meu perfil de estudo!
   </a>
 </p>
 
-#### Repositório
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github&logoColor=14BF96)
-![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)-->
+ <summary>💻 Métricas do Perfil/Projetos</summary>
+  <br/>
+    <a href="https://github.com/wagnerlimanet/github-readme-stats">
+	    <img alt="Samuel Chaves Github Stats" src="https://github-readme-stats.vercel.app/api?username=souchaves&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="45%" height="192px"/>
+    </a>
 
