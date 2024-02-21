@@ -6,7 +6,7 @@ Este é meu perfil de estudo!
 
 <p align="center">
   <a href="https://github.com/souchaves">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Samuel+Chaves;Sou+tricolor,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Samuel+Chaves;Fala+galera!,+Designer,+Desenvolvedor+e+Gestor+de+Tráfego!&center=true&width=780&height=45">
   </a>
 </p>
 
