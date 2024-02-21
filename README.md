@@ -12,3 +12,4 @@ Este é meu perfil de estudo!
 
 # Tecnologias
 <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white" />
