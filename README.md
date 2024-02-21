@@ -11,8 +11,7 @@ Este é meu perfil de estudo!
 </p>
 
 # Tecnologias
-<img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=black" />
 <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" />
